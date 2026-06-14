@@ -18,7 +18,7 @@ public class Main {
     /** 
      * rutaArchivo sigue la ruta del archivo de texto
      */
-        String rutaArchivo = "src/resources/productos.txt";
+        String rutaArchivo = "resources/productos.txt";
         
         GestorDeDatos gestor = new GestorDeDatos();
         
