@@ -4,7 +4,7 @@ Este proyecto es una aplicación de consola desarrollada en Java como actividad 
 
 La aplicación resuelve la problemática de la agencia de turismo *Llanquihue Tour* en la Región de Los Lagos, permitiendo gestionar de forma eficiente el inventario de productos turísticos mediante la lectura de archivos planos y la manipulación de colecciones dinámicas.
 
-## Características del Proyecto
+*Características del Proyecto*
 
 - **Persistencia de Datos (.txt):** Lectura automatizada de datos desde un archivo externo (`productos.txt`) procesando atributos delimitados por punto y coma `;`.
 - **Colecciones Dinámicas:** Carga e instanciación de objetos en tiempo de ejecución utilizando `ArrayList<Productos>`.
