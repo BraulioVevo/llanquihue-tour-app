@@ -1,4 +1,4 @@
-Llanquihue Tour - Sistema de Gestión de Catálogo (Semana 4)
+Llanquihue Tour App - Sistema de Gestión de Catálogo (Semana 4)
 
 Este proyecto es una aplicación de consola desarrollada en Java como actividad sumativa de la Semana 4 para la asignatura Desarrollo Orientado a Objetos I. 
 
