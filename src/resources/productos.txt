@@ -1,0 +1,7 @@
+1;Figura de Arbol de colección;5;5990
+2;Jugo Natural Arandano;20;990
+3;Figura Artesanal Madera;14;12000
+4;Jugo Natural Naranja;15;1000
+5;Jugo Natural Manzana;10;1100
+6;Figura Artesanal de Hierro;5;10000
+7;Mistery Box Figura Artesanal;9;5990
