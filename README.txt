@@ -40,6 +40,6 @@ src/
 
 3) Abre el proyecto en tu IDE preferido.
 
-Asegúrate de que la estructura de archivos mantenga el archivo productos.txt dentro de la ruta especificada en el código (src/resources/productos.txt).
+Asegúrate de que la estructura de archivos mantenga el archivo productos.txt dentro de la ruta especificada en el código (resources/productos.txt).
 
 4) Ejecuta la clase Main.java.
