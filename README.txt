@@ -6,17 +6,15 @@ La aplicación resuelve la problemática de la agencia de turismo *Llanquihue To
 
 *Características del Proyecto*
 
-- **Persistencia de Datos (.txt):** Lectura automatizada de datos desde un archivo externo (`productos.txt`) procesando atributos delimitados por punto y coma `;`.
-- **Colecciones Dinámicas:** Carga e instanciación de objetos en tiempo de ejecución utilizando `ArrayList<Productos>`.
-- **Filtros Avanzados (Criterio 4):**
-  - **Búsqueda por Palabra Clave:** Implementación de búsqueda parcial insensible a mayúsculas/minúsculas (`.toLowerCase().contains()`).
-  - **Control de Inventario Crítico:** Identificación y despliegue automático de productos con disponibilidad limitada (menor a 10 unidades).
+- Persistencia de Datos (.txt): Lectura automatizada de datos desde un archivo externo (`productos.txt`) procesando atributos delimitados por punto y coma `;`.
+- Colecciones Dinámicas: Carga e instanciación de objetos en tiempo de ejecución utilizando `ArrayList<Productos>`.
+- Filtros:
+  - Búsqueda por Palabra Clave: Implementación de búsqueda parcial insensible a mayúsculas/minúsculas (`.toLowerCase().contains()`).
+  - Control de Inventario Crítico: Identificación y despliegue de productos con disponibilidad limitada (<10 unidades).
 
 📁 Estructura de Paquetes
 
-El proyecto sigue una arquitectura modular y organizada según las directrices académicas:
-
-
+El proyecto sigue una arquitectura modular y organizada:
 src/
 │
 ├── app/ o ui/
